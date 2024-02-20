@@ -1,0 +1,15 @@
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\bin\Debug\net6.0\PayOutApp.exe
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\bin\Debug\net6.0\PayOutApp.deps.json
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\bin\Debug\net6.0\PayOutApp.runtimeconfig.json
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\bin\Debug\net6.0\PayOutApp.dll
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\bin\Debug\net6.0\PayOutApp.pdb
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.csproj.AssemblyReference.cache
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.AssemblyInfoInputs.cache
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.AssemblyInfo.cs
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.csproj.CoreCompileInputs.cache
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.dll
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\refint\PayOutApp.dll
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.pdb
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\PayOutApp.genruntimeconfig.cache
+C:\Users\Subrata\source\repos\PayOutApp\PayOutApp\obj\Debug\net6.0\ref\PayOutApp.dll
